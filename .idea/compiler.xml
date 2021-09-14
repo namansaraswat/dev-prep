@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="programming-concept" />
+        <module name="rest-webservices" />
+        <module name="nosql-database" />
+        <module name="sql-database" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dev-prep" target="1.5" />
+      <module name="nosql-database" target="1.8" />
+      <module name="programming-concept" target="1.8" />
+      <module name="rest-webservices" target="1.8" />
+      <module name="sql-database" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

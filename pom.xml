@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>dev-prep</groupId>
+    <artifactId>dev-prep</artifactId>
+    <version>1</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>nosql-database</module>
+        <module>programming-concept</module>
+        <module>rest-webservices</module>
+        <module>sql-database</module>
+    </modules>
+</project>
